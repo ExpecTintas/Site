@@ -1,2 +1,0 @@
-# ExpecTintasSite
-site Loja
